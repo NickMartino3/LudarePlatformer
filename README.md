@@ -1,4 +1,4 @@
-The prototype should run either in the unity editor, or as a build for PC.
+The prototype should run either in the unity editor, or as a build for PC (run LudarePlatformer from inside the Builds folder)
 
 Controls:
 A and D to move, Space to jump.  Space while in the air to double jump.
