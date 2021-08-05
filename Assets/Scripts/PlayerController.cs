@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     private static float Speed = 3.0f;
     private static float MaxSpeed = 10.0f;
     private static float RespawnDelaySeconds = 2.0f;
-    private static float RespawnMoveSpeed = 0.05f;
+    private static float RespawnMoveSpeed = 0.1f;
 
     public LayerMask m_groundLayer;
     public Transform m_groundCheck;
