@@ -13,7 +13,7 @@ public class EndDoorController : StationaryCollider
         {
             m_fireworks.Trigger();
 
-            m_textBox.Show($"You have unlocked the great beyond!  (But it's the end of the game, congrats!)");
+            m_textBox.Show($"You have unlocked the great beyond!  (The End, congrats!)");
         }
         else
         {
